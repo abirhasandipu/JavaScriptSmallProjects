@@ -1,1 +1,1 @@
-# JavaScriptSmallProjects
+# JavaScriptSmallProjectsForPractice
