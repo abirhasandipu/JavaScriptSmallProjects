@@ -36,13 +36,6 @@ function tipCalculator(){
 
     }
 
-
-console.log(billAmount);
-console.log(serviceQuality);
-console.log(numOfPeople);
-
-console.log(totalTipAmount);
-console.log(tipPerPerson);
 }
 
 document.getElementById("Calculate").onclick = function(){tipCalculator()};
